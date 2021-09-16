@@ -7,8 +7,8 @@ function ContactCard({ item }) {
             style={styles.container} 
             onPress={() => console.log(item.phoneNumber)}
         >
-            <Text style={styles.textContext}>{item.name}</Text>
             <Image style={styles.avantar} source={{uri: item.profileImage}} />
+            <Text style={styles.textContext}>{item.name}</Text>
         </TouchableOpacity>
     );
 }
