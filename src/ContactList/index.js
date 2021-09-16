@@ -5,7 +5,7 @@ import ContactCard from '../ContactCard';
 const data = [
     {
         name: 'Noeline',
-        phoneNumber: "03818188",
+        phoneNumber: "038181898",
         profileImage: 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS75hzwz2_zDqF3lqNIwf2iKcX3oXDAzufDpw&usqp=CAU'
     },
     {
